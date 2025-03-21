@@ -8,24 +8,28 @@
   <!--Body-->
   
   ## :octocat: About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Major in AI Department, Dong-A University
+  #### :mortar_board: Major in AI Department, Dong-A University <br/>
+  #### :closed_book: Media For Machine Laboratory , Undergraduate Researcher
   <br/>
   <br/>
 
-  ## :octocat: 프로젝트
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
-
-
-  ## :dart: 수상경력
+  ## :octocat: Project
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <br/>
+  <br/>
+
+  ## :octocat: Paper
+  #### :raising_hand: Efficient 3D Reconstruction Using Embedded System and InstantSplat 2024. 10, Korea Multimedia Society Autumn Conference 2024 <br/>
+  #### :fire: Research on Retraining a 3D Object Reconstruction Model Based on a Human Dataset, The Korean Institute of Communications and Information Sciences (KICS) <br/>
+  <br/>
+  <br/>
+
+  ## :trophy: Awards
+  #### - [2025.02] 4rd Award, 지역현안 Capstone Deisgn 경진대회 <br/>
+  #### - [2024.11] Best Paper Award, 2024 한국멀티미디어학회 추계학술발표대회 <br/>
+  #### - [2024.11] 3rd Award, Dong‐A University DevDay <br/>
   <br/>
   <br/>
 
