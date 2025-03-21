@@ -21,8 +21,8 @@
   <br/>
 
   ## :octocat: Paper
-  #### :raising_hand: Efficient 3D Reconstruction Using Embedded System and InstantSplat 2024. 10, Korea Multimedia Society Autumn Conference 2024 <br/>
-  #### :fire: Research on Retraining a 3D Object Reconstruction Model Based on a Human Dataset, The Korean Institute of Communications and Information Sciences (KICS) <br/>
+  #### :raising_hand: Efficient 3D Reconstruction Using Embedded System and InstantSplat 2024. 10, <br/>Korea Multimedia Society Autumn Conference 2024 <br/>
+  #### :fire: Research on Retraining a 3D Object Reconstruction Model Based on a Human Dataset,<br/> The Korean Institute of Communications and Information Sciences (KICS) <br/>
   <br/>
   <br/>
 
