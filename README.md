@@ -1,32 +1,37 @@
 <div>
   
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Soy's%20Github&fontColor=5A3E1B)
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Soy's%20Github&fontColor=FF8C00)
+
 
 <div>
   <!--Body-->
   
   ## :octocat: About Me
   #### :mortar_board: Major in AI Department, Dong-A University <br/>
-  #### :closed_book: Media For Machine Laboratory , Undergraduate Researcher
+  #### :mortar_board: Media For Machine Laboratory , Undergraduate Researcher
   <br/>
   <br/>
 
   ## :computer: Project
-  #### :pushpin: I am a Cloud Engineer from South Korea.<br/>
-  #### :pushpin: I aim to become a Cloud AI Engineer.<br/>
-  #### :pushpin: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :pushpin: 2024 RIS Regional Issue Capstone Design <br/>
+  <span style="font-weight: normal;">  - Developed 3D modeling technology for shoe sketches for digital fashion.</span> <br/>
+
+  #### :pushpin: Developement of Deep Learning based Closed Caption Extraction Technology <br/>
+  <span style="font-weight: normal;">  - Developed deep learning-based subtitle extraction technology through Whisper, an openAI technology.</span> <br/>
+
+  #### :pushpin: 3D Reconstruction of Human Models Using Nvidia Jetson
+  <span style="font-weight: normal;">  - Captured multi-view images with Jetson cameras and reconstructed 3D human models using a neural
+rendering pipeline.</span> <br/>
+
   <br/>
   <br/>
 
   ## :bookmark_tabs: Paper
-  #### :loop: Efficient 3D Reconstruction Using Embedded System and InstantSplat  
-**2024. 10,** <br/>  
-<span style="font-weight: normal;">Korea Multimedia Society Autumn Conference 2024</span> <br/>
-  #### :loop: Research on Retraining a 3D Object Reconstruction Model Based on a Human Dataset
-**2025. 02,** <br/>  
-<span style="font-weight: normal;">The Korean Institute of Communications and Information Sciences (KICS)</span> <br/>
+  #### :loop: Efficient 3D Reconstruction Using Embedded System and InstantSplat <br/>  
+<span style="font-weight: normal;">  - Korea Multimedia Society Autumn Conference 2024</span> <br/>
+  #### :loop: Research on Retraining a 3D Object Reconstruction Model Based on a Human Dataset <br/>  
+<span style="font-weight: normal;">  - The Korean Institute of Communications and Information Sciences (KICS)</span> <br/>
   <br/>
   <br/>
 
@@ -77,23 +82,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soysv)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  
+ 
 </div>
-
-<!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
