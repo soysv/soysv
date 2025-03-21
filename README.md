@@ -14,9 +14,9 @@
   <br/>
 
   ## :octocat: Project
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :pushpin: I am a Cloud Engineer from South Korea.<br/>
+  #### :pushpin: I aim to become a Cloud AI Engineer.<br/>
+  #### :pushpin: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
 
