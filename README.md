@@ -13,16 +13,20 @@
   <br/>
   <br/>
 
-  ## :octocat: Project
+  ## :computer: Project
   #### :pushpin: I am a Cloud Engineer from South Korea.<br/>
   #### :pushpin: I aim to become a Cloud AI Engineer.<br/>
   #### :pushpin: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
 
-  ## :octocat: Paper
-  #### :raising_hand: Efficient 3D Reconstruction Using Embedded System and InstantSplat 2024. 10, <br/>Korea Multimedia Society Autumn Conference 2024 <br/>
-  #### :fire: Research on Retraining a 3D Object Reconstruction Model Based on a Human Dataset,<br/> The Korean Institute of Communications and Information Sciences (KICS) <br/>
+  ## :bookmark_tabs: Paper
+  #### :loop: Efficient 3D Reconstruction Using Embedded System and InstantSplat  
+**2024. 10,** <br/>  
+<span style="font-weight: normal;">Korea Multimedia Society Autumn Conference 2024</span> <br/>
+  #### :loop: Research on Retraining a 3D Object Reconstruction Model Based on a Human Dataset
+**2025. 02,** <br/>  
+<span style="font-weight: normal;">The Korean Institute of Communications and Information Sciences (KICS)</span> <br/>
   <br/>
   <br/>
 
