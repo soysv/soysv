@@ -36,9 +36,9 @@ rendering pipeline.</span> <br/>
   <br/>
 
   ## :trophy: Awards
-  #### - [2025.02] 4rd Award, 지역현안 Capstone Deisgn 경진대회 <br/>
-  #### - [2024.11] Best Paper Award, 2024 한국멀티미디어학회 추계학술발표대회 <br/>
-  #### - [2024.11] 3rd Award, Dong‐A University DevDay <br/>
+  #### 💌 [2025.02] 4rd Award, 지역현안 Capstone Deisgn 경진대회 <br/>
+  #### 💌 [2024.11] Best Paper Award, 2024 한국멀티미디어학회 추계학술발표대회 <br/>
+  #### 💌 [2024.11] 3rd Award, Dong‐A University DevDay <br/>
   <br/>
   <br/>
 
