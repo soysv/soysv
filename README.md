@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Soy's%20Github&fontColor=8B4513)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Soy's%20Github&fontColor=8B4513)
 
 
 <!--
