@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Soy's%20Github%20s20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Soy's%20Github&fontColor=8B4513)
+
 
 <!--
 **soysv/soysv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
