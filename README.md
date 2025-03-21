@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Soy's%20Github&fontColor=5A3E1B)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Soy's%20Github&fontColor=5A3E1B)
 </div>
 
 <div>
@@ -13,6 +13,22 @@
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
+
+  ## :octocat: About Me
+  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
+  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <br/>
+  <br/>
+
+
+  ## :dart: 수상경력
+  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
+  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <br/>
+  <br/>
+
   
   ## 🧱 Tech Stack
   ### Language
