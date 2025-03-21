@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Soy's%20Github&fontColor=5A3E1B)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=400&section=header&text=Soy's%20Github&fontColor=5A3E1B)
 
 
 <!--
